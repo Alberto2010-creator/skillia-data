@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "titulo": "Curso de Excel: Desde Cero hasta Avanzado",
+    "imagen": "https://example.com/excel.png",
+    "progreso": 0.65
+  },
+  {
+    "id": 2,
+    "titulo": "Curso de Flutter Básico",
+    "imagen": "https://example.com/flutter.png",
+    "progreso": 0.45
+  }
+]
